@@ -6,13 +6,15 @@ h1{
   font-size: 60px;
 }
 body{
-  background-color: red;
+  background-color:orange;
 }
 p{
   font-size: 40px;
+  color: blue;
   }
   p{
     margin-top: 10px;
+    color: pink;
   }
     h1{
       text-align: center;
