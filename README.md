@@ -1,21 +1,28 @@
-                MY NEW PROJECT
-     My project consist of Javascript languages that assist in making work easier,html file to show the structure of project  and css that make styling in my project.i used some methods of string and arrays in javascript file
-                    INFORMATION.
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developer
-                    SETUP INSTRUCTIONS.
-* Create repository and functional github account
-* on my github profile select my new project
-* fork repository
-* access it on your github
-                    BDD.
+# {Triangle Tracker}
+####triangle Tracker.16th february 2019}
+#### By **Gumato Sharamo**
+## Description
+ Triangle tracker is web application that shows the length of sides of a triangle using the condition given to it.
+ ##Authors information
+ Am Gumato,i studied at Dukana girls primary school,i went to North-horr girls high school.After finishing my high i dream of leaning more about computer and i apply for moringaschool online and am now studing coding in moringaschool.
+## Setup/Installation Requirements
+* Have a functional github account
+* on my github profile,selectthe project name triangle Tracker
+* fork on repository
+* Access it on your github account
+##Behavior Driven Development
+| Header One     | Header Two     |
+| :------------- | :------------- |
+| Item One       | Item Two       |
+## Known Bugs
+{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
 *HTML
-*styles.CSS
-*JS script
-I used javascript language to create my project and method learnt in javascript .
-                   CONCTACT INFORMATION.
-If you have any question you can access to this link https:// github.com/gumato/my - new - project or contact me through this (+254715385641) I will be ready to answer you.
-                  License
-                   (MIT)
-
-Copyright (c) 2019 ** GUMATO**
+*CSS
+*javascript
+## Support and contact details
+To get access to live demo click on this link https:|| github.com|gumato|my-new-project
+### License
+[GNU Affero General Public License v3.0] https://choosealicense.com/licenses/agpl-3.0/
+*{ }
+Copyright (c) {year} **{List of contributors or company name}**
