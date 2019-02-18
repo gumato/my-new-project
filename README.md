@@ -9,13 +9,11 @@
 * Have a functional github account
 * on my github profile,selectthe project name triangle Tracker
 * fork on repository
-* Access it on your github account
+* Access it on your github account.
 ##Behavior Driven Development
-| Header One     | Header Two     |
-| :------------- | :------------- |
-| Item One       | Item Two       |
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+| BEHAVIOR     | INPUT    | OUTPUT  |
+| :------------- | :------------- | :-------------: |
+| when someone inputs three values,it determines if the values can construct a triangle and moreover which type of triangle it is.      | someone inputs a numerical value       | whether it is a triangle or not.                 |
 ## Technologies Used
 *HTML
 *CSS
@@ -25,4 +23,4 @@ To get access to live demo click on this link https:|| github.com|gumato|my-new-
 ### License
 [GNU Affero General Public License v3.0] https://choosealicense.com/licenses/agpl-3.0/
 *{ }
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) 2019  *Gumato*
