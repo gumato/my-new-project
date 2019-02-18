@@ -13,7 +13,7 @@
 ##Behavior Driven Development"
 | BEHAVIOR     | INPUT    | OUTPUT  |
 | :-------------: | :-------------: | :-------------: |
-| when someone inputs three values,it determines if the values can construct a triangle and moreover which type of triangle it is.      | someone inputs a numerical value       | whether it is a triangle or not.                 |
+| when someone inputs three values,it determines if the values can construct a triangle and moreover which type of triangle it is.      | someone inputs a numerical value       | whether it is a triangle or not.|              
 ## Technologies Used
 *HTML
 *CSS
