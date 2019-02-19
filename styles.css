@@ -7,7 +7,10 @@ h1{
   font-size: 60px;
 }
 body{
-  background-color:green;
+  background-image: url("http://files.all-free-download.com//downloadfiles/wallpapers/1600_1200/the_great_pyramid_wallpaper_egypt_world_2051.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* font-size:1400px; */
 }
 p{
   font-size: 30px;
